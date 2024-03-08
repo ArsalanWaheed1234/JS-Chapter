@@ -155,3 +155,4 @@
 // document.write("Saudi Riyal convert to PKR "+saudiRiyal+"<br>")
 // document.write("Dollar Convart to PKR "+dollarRate+" <br>");
 // document.write("Total Amount is "+(dollarRate + saudiRiyal))
+// hhhhhhhhhhhhhhhhhhhhhhhhhh
