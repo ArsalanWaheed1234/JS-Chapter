@@ -2,7 +2,7 @@
 // user enters “Karachi”, welcome the user like this:
 // “Welcome to city of lights”
 
-// let city=prompt("Enter a City Name")
+// let city=prompt("Enter a City Name").toLowerCase()
 // if (city=="karachi"){
 //     console.log("Welcome to City of light")
 // }
@@ -16,7 +16,7 @@
 // user is male, give the message: Good Morning Sir. If the
 // user is female, give the message: Good Morning Ma’am.
 
-// let gender=prompt("Enter a Gender")
+// let gender=prompt("Enter a Gender").toLowerCase()
 // if (gender=="male"){
 //     console.log("Good Morning Sir")
 // }else if(gender== "female"){
@@ -31,7 +31,7 @@
 // 3. Write a program to take input color of road traffic signal
 // from the user & show the message according to this table:
 
-// let signalsColor=prompt("Enter a Traffic Light Color")
+// let signalsColor=prompt("Enter a Traffic Light Color").toLowerCase()
 // if (signalsColor=="red"){
 //     console.log("Must Stop")
 // }else if(signalsColor== "yellow"){
