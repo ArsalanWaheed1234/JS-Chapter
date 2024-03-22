@@ -7,7 +7,7 @@
     //     let finalAge=year-user;
     //     alert(finalAge);
     // }
-    // age()
+    //  age(finalAge)
 
 
 
