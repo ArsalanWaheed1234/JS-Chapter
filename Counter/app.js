@@ -1,4 +1,3 @@
-
 let val = document.getElementById("value");
 let counter=0;
 function increment(){
