@@ -4,21 +4,22 @@
 // codes:- A=65, Z=90, a=97, z=122).
 
 // let userInput=prompt("Enter a Alphabet");
-// if(userInput>="A" && userInput <="Z"){
-    //     console.log(userInput+"= UpperCase Letter");
-    // }
-    // else if(userInput>="a" && userInput <="z"){
-        //     console.log(userInput+"= LowerrCase Letter");
-        // }else{
-            //     console.log("Incorrect Value")
-            // }
+// convertASCII =userInput.charCodeAt(0)
+// if(convertASCII>="65" && convertASCII <="90"){
+//         console.log(convertASCII);
+//     }
+//     else if(convertASCII>="97" && convertASCII <="122"){
+//             console.log(convertASCII);
+//         }else{
+//                 console.log("Incorrect Value")
+//             }
             
             
     // 2. Write a JavaScript program that accept two integers and
     // display the larger. Also show if the two integers are equal.
             
-//      let userInput1=prompt("Enter a First Value").toUpperCase();
-//      let userInput2=prompt("Enter a Second Value").toUpperCase();
+//      let userInput1=+prompt("Enter a First Value").toUpperCase();
+//      let userInput2=+prompt("Enter a Second Value").toUpperCase();
 
 //      if(userInput1==userInput2){
 //          console.log("First Value "+userInput1+" Second Value "+userInput2+" Both Value are Same ");
@@ -37,14 +38,14 @@
 
 // let userInput=prompt("Enter a Number");
 // if(userInput>0){
-    //     console.log("Number is Positive");
-    // }
-    // else if(userInput==0){
-        //     console.log("Number is zero");
-        // }
-        // else{
-            // console.log("Number is Negative");
-            // }
+//         console.log("Number is Positive");
+//     }
+//     else if(userInput==0){
+//             console.log("Number is zero");
+//         }
+//         else{
+//             console.log("Number is Negative");
+//             }
             
             
             
